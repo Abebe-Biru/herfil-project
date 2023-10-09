@@ -4,13 +4,13 @@ This is a web application that showcases the products and services of HerFil Gen
 
 ## Table of Contents
 
-- Installation
-- Usage
-- Technologies
-- Features
-- Challenges
-- License
-- Credits
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies](#technologies)
+- [Features](#features)
+- [Challenges](#challenges)
+- [License](#license)
+- [Credits](#credits)
 
 <a name="installation"></a>
 ## Installation
@@ -91,7 +91,7 @@ Some of the challenges and limitations that I faced while building this project 
 <a name="license"></a>
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE] file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 <a name="credits"></a>
 ## Credits
