@@ -99,5 +99,4 @@ This project is licensed under the MIT License. See the [LICENSE] file for more 
 I would like to thank the following sources and resources for helping me build this project:
 
 - [JS Mastery](https://youtu.be/_oO4Qi5aVZs): This source provided me with the inspiration for the homepage design of the project. 
-- [Tailwind CSS](https://tailwindcss.com): This source taught me how to use Vite as a build tool for React.js and Tailwind CSS projects. 
-- Source 3: This source gave me some useful tips and tricks for working with Laravel and React.js.
+- [Tailwind CSS](https://tailwindcss.com): This source taught me how to use Vite as a build tool for React.js and Tailwind CSS projects.
