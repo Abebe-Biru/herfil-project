@@ -48,16 +48,19 @@ To install and run this project, you need to have Node.js, npm, Composer, and La
 
    ```bash
    php artisan migrate
+    ```
 
 10. Start the backend server using:
 
-   ```bash
-   php artisan serve
+    ```bash
+    php artisan serve
+    ```
 
 11. Start the frontend server using:
+
    ```bash
    npm run dev
-   
+    ```
 12. Open your browser and go to `http://localhost:5173` to see the project in action.
 
 <a name="usage"></a>
