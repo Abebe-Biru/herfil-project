@@ -68,13 +68,13 @@ To install and run this project, you need to have Node.js, npm, Composer, and La
     php artisan serve
     ```
 
-11. To start the frontend development server, run the following command:
+11. Start the frontend server using:
 
-   ```bash
-   npm run dev
-12. Open your browser and go to `http://localhost:5173` to see the project in action.
+  `npm run dev`
+12. Open your browser and go to `<http://localhost:5173`> to see the project in action.
 
 <a name="usage"></a>
+
 ## Usage
 
 To use the project, you can navigate through the following pages:
@@ -100,6 +100,7 @@ To use the project, you can navigate through the following pages:
 ![Contact](https://i.imgur.com/muquipa.png)
 
 <a name="technologies"></a>
+
 ## Technologies
 
 I built this project using the following technologies and tools:
@@ -114,6 +115,7 @@ I built this project using the following technologies and tools:
 - Git and GitHub: Version control tools that I used to manage my code.
 
 <a name="features"></a>
+
 ## Features
 
 The project has the following features:
@@ -125,6 +127,7 @@ The project has the following features:
 - Form validation: The project validates user input on both frontend and backend using React Hook Form and Laravel's validation rules.
 
 <a name="challenges"></a>
+
 ## Challenges
 
 Some of the challenges and limitations that I faced while building this project were:
@@ -133,15 +136,18 @@ Some of the challenges and limitations that I faced while building this project 
 - Challenge 2: This challenge was very frustrating because I had to use the 'react-image-magnify' package which is not compatible with Tailwind CSS and newer version of React.js. I had to find an alternative solution or modify the package code to make it work with my project.
 
 <a name="license"></a>
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 <a name="credits"></a>
+
 ## Credits
+
 This project was created by [Abebe Biru](https://www.linkedin.com/in/abebe-biru/).
 
 Finally, I would like to thank the following sources and resources for helping me build this project:
 
-- [JS Mastery](https://youtu.be/_oO4Qi5aVZs): This source provided me with the inspiration for the homepage design of the project. 
+- [JS Mastery](https://youtu.be/_oO4Qi5aVZs): This source provided me with the inspiration for the homepage design of the project.
 - [Tailwind CSS](https://tailwindcss.com): This source taught me how to use Vite as a build tool for React.js and Tailwind CSS projects.
