@@ -13,21 +13,42 @@ This is a web application that showcases the products and services of HerFil Gen
 - [Credits](#credits)
 
 <a name="installation"></a>
+
 ## Installation
 
 To install and run this project, you need to have Node.js, npm, Composer, and Laravel installed on your machine. Then, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/Abebe-Biru/herfil-project.git`.
-2. Navigate to the frontend folder using `cd herfil-project/frontend`.
-3. Install the frontend dependencies using `npm install` or if you prefer `yarn install`.
-4. Navigate to the backend folder using `cd herfil-project/api`.
-5. Install the backend dependencies using `composer install`.
+1. Clone this repository to your local machine using:
+   ```bash
+
+ git clone <https://github.com/Abebe-Biru/herfil-project.git>
+2. Navigate to the frontend folder using:
+
+   ```bash
+   cd herfil-project/frontend
+3. Install the frontend dependencies using:
+   ```bash
+   npm install
+4. Navigate to the backend folder using:
+   ```bash
+   cd herfil-project/api
+5. Install the backend dependencies using:
+   ```bash
+   composer install
 6. Copy the `.env.example` file and rename it to `.env`.
-7. Generate an application key using `php artisan key:generate`.
+7. Generate an application key using:
+   ```bash
+   php artisan key:generate
 8. Create a MySQL database and update the database credentials in the `.env` file.
-9. Run the database migrations using `php artisan migrate`.
-10. Start the backend server using `php artisan serve`.
-11. Start the frontend server using `npm run dev`.
+9. Run the database migrations using:
+   ```bash
+   php artisan migrate
+10. Start the backend server using:
+   ```bash
+   php artisan serve
+11. Start the frontend server using:
+   ```bash
+   npm run dev
 12. Open your browser and go to `http://localhost:5173` to see the project in action.
 
 <a name="usage"></a>
@@ -95,8 +116,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 <a name="credits"></a>
 ## Credits
+This project was created by [Abebe Biru](https://www.linkedin.com/in/abebe-biru/).
 
-I would like to thank the following sources and resources for helping me build this project:
+Finally, I would like to thank the following sources and resources for helping me build this project:
 
 - [JS Mastery](https://youtu.be/_oO4Qi5aVZs): This source provided me with the inspiration for the homepage design of the project. 
 - [Tailwind CSS](https://tailwindcss.com): This source taught me how to use Vite as a build tool for React.js and Tailwind CSS projects.
