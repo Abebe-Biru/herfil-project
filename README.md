@@ -22,27 +22,39 @@ To install and run this project, you need to have Node.js, npm, Composer, and La
 
    ```bash
    git clone https://github.com/Abebe-Biru/herfil-project.git
+    ```
+
 2. Navigate to the frontend folder using:
 
    ```bash
    cd herfil-project/frontend
+    ```
+
 3. Install the frontend dependencies using:
 
    ```bash
    npm install
+    ```
+
 4. Navigate to the backend folder using:
 
    ```bash
    cd herfil-project/api
+    ```
+
 5. Install the backend dependencies using:
 
    ```bash
    composer install
+    ```
+
 6. Copy the `.env.example` file and rename it to `.env`.
 7. Generate an application key using:
 
    ```bash
    php artisan key:generate
+    ```
+
 8. Create a MySQL database and update the database credentials in the `.env` file.
 9. Run the database migrations using:
 
@@ -60,7 +72,6 @@ To install and run this project, you need to have Node.js, npm, Composer, and La
 
   ```bash
    npm run dev
-    ```
 
 12. Open your browser and go to `http://localhost:5173` to see the project in action.
 
