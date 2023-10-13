@@ -68,7 +68,7 @@ To install and run this project, you need to have Node.js, npm, Composer, and La
     php artisan serve
     ```
 
-11. Start the frontend server using:
+11. To start the frontend development server, run the following command:
 
    ```bash
    npm run dev
