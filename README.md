@@ -68,7 +68,11 @@ To install and run this project, you need to have Node.js, npm, Composer, and La
     php artisan serve
     ```
 
-11. Start the frontend server using:`npm run dev`
+11. Start the frontend server using:
+
+    ```bash
+    php artisan serve
+    ```
 
 12. Open your browser and go to `http://localhost:5173` to see the project in action.
 
