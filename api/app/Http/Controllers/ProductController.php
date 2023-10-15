@@ -12,26 +12,6 @@ class ProductController extends Controller
     // Display a listing of the products with pagination
     public function index(Request $request)
     {
-        // // Get the skip and limit parameters from the request or use default values
-        // $skip = $request->input('skip', 0);
-        // $limit = $request->input('limit', 30);
-
-        // // Get the total number of products
-        // $total = Product::count();
-
-        // // Get the products with pagination
-        // $products = Product::skip($skip)->take($limit)->get();
-
-        // // Return a JSON object with the products, total, skip, and limit
-        // return response()->json([
-        //     'products' => $products,
-        //     'total' => $total,
-        //     'skip' => $skip,
-        //     'limit' => $limit
-        // ]);
-
-
-
         // Get the page and per_page parameters from the request or use default values
         $page = $request->input('page', 1);
         $limit = $request->input('limit', 10);
