@@ -12,8 +12,6 @@ This is a web application that showcases the products and services of HerFil Gen
 - [License](#license)
 - [Credits](#credits)
 
-<a name="installation"></a>
-
 ## Installation
 
 To install and run this project, you need to have Node.js, npm, Composer, and Laravel installed on your machine. Then, follow these steps:
@@ -76,8 +74,6 @@ To install and run this project, you need to have Node.js, npm, Composer, and La
 
 12. Open your browser and go to `http://localhost:5173` to see the project in action.
 
-<a name="usage"></a>
-
 ## Usage
 
 To use the project, you can navigate through the following pages:
@@ -102,8 +98,6 @@ To use the project, you can navigate through the following pages:
 
 ![Contact](https://i.imgur.com/muquipa.png)
 
-<a name="technologies"></a>
-
 ## Technologies
 
 I built this project using the following technologies and tools:
@@ -117,8 +111,6 @@ I built this project using the following technologies and tools:
 - Visual Studio Code: A code editor that I used to write and debug my code.
 - Git and GitHub: Version control tools that I used to manage my code.
 
-<a name="features"></a>
-
 ## Features
 
 The project has the following features:
@@ -129,8 +121,6 @@ The project has the following features:
 - Search and filter: The project allows filtering products by category.
 - Form validation: The project validates user input on both frontend and backend using React Hook Form and Laravel's validation rules.
 
-<a name="challenges"></a>
-
 ## Challenges
 
 Some of the challenges and limitations that I faced while building this project were:
@@ -138,13 +128,9 @@ Some of the challenges and limitations that I faced while building this project 
 - Challenge 1: This challenge was very interesting because I had to find a way to design a database schema and an API endpoint that can handle multiple images for each product to show in details.
 - Challenge 2: This challenge was very frustrating because I had to use the 'react-image-magnify' package which is not compatible with Tailwind CSS and newer version of React.js. I had to find an alternative solution or modify the package code to make it work with my project.
 
-<a name="license"></a>
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-<a name="credits"></a>
 
 ## Credits
 
