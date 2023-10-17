@@ -32,11 +32,6 @@ export const navLinks = [
     to: "/about",
     title: "About",
   },
-  // {
-  //   id: "clients",
-  //   to:"",
-  //   title: "Clients",
-  // },
   {
     id: "contact",
     to: "/contact",
@@ -104,7 +99,7 @@ export const stats = [
   {
     id: "stats-2",
     title: "Regular Employees",
-    value: "230+",
+    value: "30+",
   },
   {
     id: "stats-3",
