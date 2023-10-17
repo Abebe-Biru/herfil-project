@@ -134,7 +134,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Credits
 
-<!-- This project was created by [Abebe Biru](https://www.linkedin.com/in/abebe-biru/). -->
+This project was created by [Abebe Biru](https://www.linkedin.com/in/abebe-biru/).
 
 Finally, I would like to thank the following sources and resources for helping me build this project:
 
